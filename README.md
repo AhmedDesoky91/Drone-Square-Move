@@ -30,7 +30,7 @@ Because mainly, we set some set of commands, this will block the code from doing
    -  To move from a state to another, there should be an event that triggers the transition.
    -  The following diagram viualizes the different states and transitions in our project :
 
-![img2](https://i.imgur.com/Fgmx1xA.png)
+![img2](https://i.imgur.com/AyzVdxL.png)
 
 ## Environment:
 ---
