@@ -32,7 +32,6 @@ Because mainly, we set some set of commands, this will block the code from doing
 
 ![img2](https://i.imgur.com/Fgmx1xA.png)
 
-
 ## Environment:
 ---
 * Ubuntu 18.04 LTS
