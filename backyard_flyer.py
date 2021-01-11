@@ -16,7 +16,6 @@ class States(Enum):
     LANDING = 4
     DISARMING = 5
 
-
 class BackyardFlyer(Drone):
 
     def __init__(self, connection):
@@ -213,7 +212,6 @@ class BackyardFlyer(Drone):
         self.connection.start()
         print("Closing log file")
         self.stop_log()
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
